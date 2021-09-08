@@ -1,0 +1,8 @@
+name: bioconductor-tximport
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-tximport
+  - bioconductor-rhdf5

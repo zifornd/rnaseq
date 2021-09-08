@@ -1,0 +1,7 @@
+name: bioconductor-deseq2
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-deseq2
